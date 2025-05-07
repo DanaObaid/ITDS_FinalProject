@@ -125,7 +125,6 @@ The project is submitted as a ZIP file via Canvas, containing:
 ## GitHub Repository
 The project is hosted on GitHub at:  
 [https://github.com/DanaObaid/ITDS_FinalProject](https://github.com/DanaObaid/ITDS_FinalProject)  
-[Note: Replace with the actual GitHub URL after uploading your project. Ensure the repository is public or accessible to reviewers.]
 
 ## Notes for Reviewers
 - The notebook is self-contained, with all code, explanations, and results included.
